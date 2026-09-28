@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.venv/
+__pycache__/
+*.mp4
+*.wav
+*.mp3
+_part_*.mp4
+stills/
+audio/
+ffmpeg2pass*
